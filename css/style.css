@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(235, 225, 225);
+
+}
+.hero{
+    width: 536px;
+    height: 536px;
+    border: 20px solid white;
+    border-radius: 50%;
+    box-shadow: inset black;
+    margin: 72px 0px 72px 116px;
+}
+.logo{
+    width: 272px;
+    height: 58px;
+}
